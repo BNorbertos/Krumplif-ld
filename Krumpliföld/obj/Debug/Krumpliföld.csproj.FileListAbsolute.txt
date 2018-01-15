@@ -1,0 +1,6 @@
+c:\users\dmbilnor\documents\visual studio 2015\Projects\Krumpliföld\Krumpliföld\bin\Debug\Krumpliföld.exe.config
+c:\users\dmbilnor\documents\visual studio 2015\Projects\Krumpliföld\Krumpliföld\bin\Debug\Krumpliföld.exe
+c:\users\dmbilnor\documents\visual studio 2015\Projects\Krumpliföld\Krumpliföld\bin\Debug\Krumpliföld.pdb
+c:\users\dmbilnor\documents\visual studio 2015\Projects\Krumpliföld\Krumpliföld\obj\Debug\Krumpliföld.csprojResolveAssemblyReference.cache
+c:\users\dmbilnor\documents\visual studio 2015\Projects\Krumpliföld\Krumpliföld\obj\Debug\Krumpliföld.exe
+c:\users\dmbilnor\documents\visual studio 2015\Projects\Krumpliföld\Krumpliföld\obj\Debug\Krumpliföld.pdb
